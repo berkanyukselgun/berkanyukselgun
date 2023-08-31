@@ -5,4 +5,4 @@ During my tenure, I was an urban design specialist and project manager at the co
 I have successfully completed game development training with Flutter. In the graduation project, I worked as a scrum master and developer in the team. I graduated from the academy in 2023.
 I am currently studying computer programming and I am gaining experience in mobile application development by developing my own basic applications. You can check out my LinkedIN at https://www.linkedin.com/in/berkan-yukselgun/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkanyukselgun)](https://github.com/berkanyukselgun/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkanyukselgun)](https://github.com/anuraghazra/github-readme-stats)
