@@ -8,7 +8,7 @@ I’m Berkan from Turkiye, and I'm Flutter Developer.I graduated from Karadeniz 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkanyukselgun)](https://github.com/anuraghazra/github-readme-stats)
 ---------------------------------------------------------------------------------------------------------------
-Skills: FLUTTER / DART / OOP / HTML / C#
+Skills: FLUTTER / DART / OOP / HTML / C# / PS / AE / NETCAD / AUTOCAD     
 
 
 
