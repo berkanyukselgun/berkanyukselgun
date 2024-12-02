@@ -6,7 +6,7 @@ I’m Berkan from Turkiye, and I'm Flutter Developer.I graduated from Karadeniz 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/berkan-yukselgun//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/berkan.yukselgun//)  
 ---------------------------------------------------------------------------------------------------------------
-Skills: FLUTTER / DART / OOP / HTML / C# / PS / AE / NETCAD / AUTOCAD     
+Skills: FLUTTER / DART / CSS / OOP / HTML / JAVASCRIPT / PS / AE / NETCAD / AUTOCAD     
 
 
 
